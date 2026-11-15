@@ -1,13 +1,13 @@
 {
-  "name": "web-clean",
+  "name": "clean-my-website",
   "owner": { "name": "hawk227" },
   "metadata": { "description": "Twenty-point cleanup pass for web UI." },
   "plugins": [
     {
-      "name": "web-clean",
-      "source": "./plugins/web-clean",
+      "name": "clean-my-website",
+      "source": "./plugins/clean-my-website",
       "description": "Removes AI-slop decoration and fixes craft details in web UI: badges, italics, mono, radii, contrast, headline wrapping, tabular numbers, loading states, feedback motion.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "design",
       "keywords": ["ui", "design", "frontend", "polish", "accessibility"]
     }

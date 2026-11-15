@@ -1,9 +1,9 @@
 ---
-name: web-clean
-description: Twenty-point cleanup pass for web UI — removes AI-slop decoration (filler badges, random italics, needless mono, embellishments) and fixes craft details (radii, contrast, headline wrapping, tabular numbers, loading states, feedback motion). Use when asked to clean up, polish, de-slop, tighten or review a page, landing page, component or dashboard, or says "web-clean".
+name: clean-my-website
+description: Twenty-point cleanup pass for web UI — removes AI-slop decoration (filler badges, random italics, needless mono, embellishments) and fixes craft details (radii, contrast, headline wrapping, tabular numbers, loading states, feedback motion). Use when asked to clean up, polish, de-slop, tighten or review a page, landing page, component or dashboard, or says "clean my website" or "clean-my-website".
 ---
 
-# web-clean
+# Clean My Website
 
 Run a pass over the UI in question against these 20 rules. Read the actual markup and styles first; fix in code, not in commentary. Respect the project's existing design system and brand where it has one.
 

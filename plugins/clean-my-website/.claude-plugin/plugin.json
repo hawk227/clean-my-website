@@ -1,10 +1,10 @@
 {
-  "name": "web-clean",
-  "version": "1.0.0",
+  "name": "clean-my-website",
+  "version": "1.1.0",
   "description": "Twenty-point cleanup pass for web UI.",
   "author": { "name": "hawk227" },
-  "homepage": "https://github.com/hawk227/web-clean",
-  "repository": "https://github.com/hawk227/web-clean",
+  "homepage": "https://github.com/hawk227/clean-my-website",
+  "repository": "https://github.com/hawk227/clean-my-website",
   "license": "MIT",
   "keywords": ["ui", "design", "frontend", "polish", "accessibility"]
 }
